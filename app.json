@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Contatos_App",
+    "slug": "Contatos_App",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
